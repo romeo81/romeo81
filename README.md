@@ -10,11 +10,47 @@ Learner of things.
 
 *   🌍  I'm based in Nevada
 
-*   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/roybaileyii/)
+<!-- *   🖥️  See my portfolio at [Linkedin](http://www.linkedin.com/in/roybaileyii/) -->
 
-*   ✉️  You can contact me at [baileyii.roy@gmail.com](mailto:baileyii.roy@gmail.com)
+*   ✉️  You can contact me at [Send A Email.](mailto:baileyii.roy@gmail.com)
 
 * ⚡  I enjoy learning to build things like a home lab
+
+
+<a href="https://www.github.com/romeo81" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/romeo81?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+
+
+
+
+
+
+
+
+  
+
+
+  
+### Skills 
+<p align="left">
+<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a></p>
+                    
+### Socials
+                  
+### Badges
+<b>My GitHub Stats</b> 
+
+<a href="http://www.github.com/romeo81">
+<img src="https://github-readme-stats.vercel.app/api?username=romeo81&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=ef4444&icon_color=f97316&bg_color=000000&hide_border=true&show_icons=true" alt="romeo81's GitHub stats" /> 
+</a href=> <a href="http://www.github.com/romeo81"><img src="https://github-readme-streak-stats.herokuapp.com/?user=romeo81&stroke=ef4444&background=000000&ring=ef4444&fire=ef4444&currStreakNum=ef4444&currStreakLabel=ef4444&sideNums=ef4444&sideLabels=ef4444&dates=ef4444&hide_border=true" /></a>
+
+
+<a href="https://github.com/romeo81" align="left">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeo81&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+
 <!-- count vist thing
 
 <p align="center"> 
