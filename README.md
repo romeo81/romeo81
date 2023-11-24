@@ -1,5 +1,40 @@
 ### Hi there 👋
 
+
+
+
+
+
+
+
+<!-- count vist thing
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/romeo81/count.svg" />
+</p>
+-->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 <!--
 **romeo81/romeo81** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
