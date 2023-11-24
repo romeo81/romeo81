@@ -17,7 +17,7 @@ Learner of things.
 * ⚡  I enjoy learning to build things like a home lab
 
 
-<a href="https://www.github.com/romeo81" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/romeo81?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
+
 
 
 
@@ -48,16 +48,16 @@ Learner of things.
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=romeo81&langs_count=10&title_color=ef4444&text_color=ef4444&icon_color=f97316&bg_color=000000&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<a href="https://www.github.com/romeo81" target="_blank" rel="noreferrer"> <img src="https://img.shields.io/github/followers/romeo81?logo=github&style=for-the-badge&color=f97316&labelColor=000000" /></a>
 
 
-
-<!-- count vist thing
+ <!--count vist thing-->
 
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/romeo81/count.svg" />
 </p>
--->
+
 
 
 
